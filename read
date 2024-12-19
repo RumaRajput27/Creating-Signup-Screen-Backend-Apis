@@ -1,0 +1,11 @@
+signup-app/
+├── config/
+│   └── db.js
+├── controllers/
+│   └── userController.js
+├── models/
+│   └── userModel.js
+├── routes/
+│   └── userRoutes.js
+├── app.js
+└── server.js
